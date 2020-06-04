@@ -2,7 +2,7 @@
 
 Source code and resources for the fourth lab on **Interaction Technologies: Physical Interfaces** course.
 
-Lecture notes are located here: [XXX.pdf](https://wiki.mediacube.at/wiki/images/9/9b/03_Lab03_-_Gesture.pdf)
+Lecture notes are located here: [04_Lab04 - Motion.pdf](https://wiki.mediacube.at/wiki/images/a/ad/04_Lab04_-_Motion.pdf)
 
 | Folder | Contents
 | --- | --- |
