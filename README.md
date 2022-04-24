@@ -1,4 +1,4 @@
-# Lecture6_Motion
+# Lab4_Motion
 
 Source code and resources for the fourth lab on **Interaction Technologies** course.
 
