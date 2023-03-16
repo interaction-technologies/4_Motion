@@ -12,7 +12,7 @@ void setup() {
 void loop() {
 
 	// Read in stretch sensor value
-	int stretch_reading = analogRead(pot_pin);
+	int stretch_reading = analogRead(stretch_pin);
 
 	// Constrain reading so that it doesn't exceed bounds
 	stretch_reading = constrain(stretch_reading, min_level, max_level);
